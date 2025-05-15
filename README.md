@@ -45,7 +45,6 @@
 
 You can deploy this project on platform like:
 - [GitHub Pages](https://pages.github.com/)
-- 
 ---
 
 ## 📁 File Structure
